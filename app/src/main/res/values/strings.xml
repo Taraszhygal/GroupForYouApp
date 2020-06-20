@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">GroupForYou</string>
+    <string name="name_in_app">GroupForYou</string>
+    <string name="promoText"> Це найзручніша програма для пошуку гуртків у вашому місті </string>
+    <string name="mentorText"> Реєструйтесь та розкажіть всьому світу про нього ! </string>
+    <string name="mentorTop"> Якщо ви ведете гурток </string>
+    <string name="BottomText"> Якщо ви вже є користувачем нашого сервісу, просто увійдіть до свого акаунта </string>
+    <string name="bottomButton"> Вхід </string>
+    <string name="userTop"> В пошуках найцікавішого гуртка у вашому місті?</string>
+    <string name="userText"> Тоді реєструйтесь, як користувач і знаходьте заняття вашої мрії </string>
+    <string name="RegButtonUser"> Зареєструватись </string>
+    <string name="email">Email</string>
+    <string name="exp">Досвід Роботи( років ведення гуртків і т.п.)</string>
+    <string name="login">Вхід</string>
+    <string name="title_activity_add_group">Add new group</string>
+    <string name="title_activity_groups">Groups</string>
+    <string name="title_activity_info_groups">Group description</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Your Nickname</string>
+    <string name="nav_header_subtitle">type of account</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_search">Пошук</string>
+    <string name="menu_filter">Фільтри</string>
+    <string name="menu_home">Головна</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_sign_out">Вихід</string>
+
+    <string name="title_sign_out">Бажаєте вийти з даного профілю ?</string>
+
+
+    <string name="title_add_group">Створіть свій гурток</string>
+    <string name="photo_add_group">Виберіть фото для вашого гуртка</string>
+    <string name="category_add_group">Виберіть вид гуртка</string>
+    <string name="description_add_group">Описання</string>
+    <string name="phone_add_group">Номер телефону</string>
+    <string-array name="category_array">
+        <item>Спортивний</item>
+        <item>Музичний</item>
+        <item>Художній</item>
+        <item>Курси іноземних мов</item>
+        <item>Технічний</item>
+        <item>Розвиток особистості</item>
+        <item>Інші курси</item>
+    </string-array>
+
+    <string name="description_info_group">Опис: </string>
+    <string name="category_info_group">Категорія: </string>
+    <string name="mentor_info_group">Керівник: </string>
+    <string name="experience_info_group">Досвід роботи: </string>
+    <string name="Number_info_group">Номер телефону: </string>
+
+    <string name="title_filter">Фільтри пошуку</string>
+    <string-array name="category_filter_array">
+        <item>Усі</item>
+        <item>Спортивний</item>
+        <item>Музичний</item>
+        <item>Художній</item>
+        <item>Курси іноземних мов</item>
+        <item>Технічний</item>
+        <item>Розвиток особистості</item>
+        <item>Інші курси</item>
+    </string-array>
+    <string-array name="exp_filter_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10+</item>
+    </string-array>
+</resources>

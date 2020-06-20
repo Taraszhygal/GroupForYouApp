@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#f2f2f2</color>
+    <color name="colorLinerLayout" >#0c5aed</color>
+    <color name="colorPushButtonLogin">#8aeb9e</color>
+    <color name="colorStroke">#02c72b</color>
+    <color name="colorButtonRegistration">#BE2525</color>
+    <color name="colorPushButtonRegistration">#941c1c</color>
+    <color name="colorStrokeReg">#0f0101</color>
+    <color name="colorLeftBackground">#ffffff</color>
+    <color name="colorButtonRegistration2">#b8b6b6</color>
+    <color name="colorPushButtonRegistration2">#696868</color>
+    <color name="colorStrokeReg2">#0f0101</color>
+    <color name="colorBottomBackground">#d6e8ff</color>
+
+
+</resources>

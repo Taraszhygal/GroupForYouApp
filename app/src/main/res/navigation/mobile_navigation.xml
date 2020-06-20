@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.groupforyouapp.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_filter"
+        android:name="com.groupforyouapp.ui.filter.FilterFragment"
+        android:label="@string/menu_filter"
+        tools:layout="@layout/fragment_filter"/>
+
+    <fragment
+        android:id="@+id/nav_search"
+        android:name="com.groupforyouapp.ui.search.SearchFragment"
+        android:label="@string/menu_search"
+        tools:layout="@layout/fragment_search"/>
+
+
+    <fragment
+        android:id="@+id/nav_exit"
+        android:name="com.groupforyouapp.ui.sign_out.SignOutFragment"
+        android:label="@string/menu_sign_out"
+        tools:layout="@layout/fragment_signout" />
+</navigation>

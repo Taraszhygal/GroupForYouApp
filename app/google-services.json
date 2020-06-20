@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20015132809",
+    "firebase_url": "https://whattodo-app.firebaseio.com",
+    "project_id": "whattodo-app",
+    "storage_bucket": "whattodo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20015132809:android:c71f63032a6c0c2b655658",
+        "android_client_info": {
+          "package_name": "com.whattodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20015132809-i9ulpgp57gcm9htpmejnhgat1md1pktv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whattodoapp",
+            "certificate_hash": "8a8dccb671e788091014aa6889093be8ba20c2a6"
+          }
+        },
+        {
+          "client_id": "20015132809-doet5uc3udknbv5s8kmq8tfg1j8460qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhtmXIY1JPa9q_JEBN7lgJGUbmGz7jxV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20015132809-doet5uc3udknbv5s8kmq8tfg1j8460qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
